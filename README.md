@@ -1,5 +1,7 @@
 # Evil Notes App
-A single-page Javascript application that allows users to write notes send themselves by email.
+A single-page Javascript application that allows users to write notes send themselves those notes by email.
+
+![Alt text](./assets/SPA.png?raw=true "Test results")
 
 ## About
 The app was built from the ground up, with no external libraries except [http-server](https://www.npmjs.com/package/http-server). We created our own testing frame-work to test drive the application based off Jasmine.
