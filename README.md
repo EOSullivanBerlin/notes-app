@@ -2,7 +2,7 @@
 A single-page Javascript application that allows users to write notes send themselves by email.
 
 ## About
-The app was built from the ground up, with no external libraries except [http-server](https://www.npmjs.com/package/http-server).We created our own testing frame-work to test drive the application based off Jasmine.
+The app was built from the ground up, with no external libraries except [http-server](https://www.npmjs.com/package/http-server). We created our own testing frame-work to test drive the application based off Jasmine.
 
 ### To Install and run locally
 Clone this repo.
